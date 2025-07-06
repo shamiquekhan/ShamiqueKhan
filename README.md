@@ -10,7 +10,7 @@
 - 🧠 I'm a **Computer Science student** with a strong passion for **Artificial Intelligence, Machine Learning, and Web Development**.
 - 🚀 I love building **fun side projects**, games, and creative tools using **Python** and **web technologies**.
 - 🎥 I'm also a **digital storyteller**, using content creation to simplify tech, share my journey, and empower learners.
-- 🌍 I'm currently learning: `Python for AI`, `React`, and `German (C1 level)`—bridging tech and language!
+- 🌍 I'm currently learning: `Python for AI`, `Data structures and Algorithms `, and `German (C1 level)`—bridging tech and language!
 
 ---
 
