@@ -1,7 +1,9 @@
-# SHAMIQUE KHAN
 <p align="center">
   <a href="https://github.com/shamiquekhan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=900&color=D71921&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+PROTOCOLS...;%3E+SYSTEM_IDENTITY%3A+SHAMIQUE+KHAN;%3E+CLASS%3A+AI+ENGINEER+%2F+CS+STUDENT;%3E+STATUS%3A+ONLINE" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=26&duration=2200&pause=900&color=D71921&center=true&vCenter=true&width=900&lines=%E2%80%A2%E2%80%A2%E2%80%A2+SYSTEM_BOOT_SEQUENCE+ONLINE+%E2%80%A2%E2%80%A2%E2%80%A2;%3E+SYSTEM_IDENTITY%3A+SHAMIQUE+KHAN;%3E+ROLE%3A+AI+ENGINEER++%2F++CS+STUDENT;%3E+SPECIALIZATION%3A+ML++%7C++GEN+AI++%7C++DATA+SYSTEMS"
+      alt="Dot-matrix typing header"
+    />
   </a>
 </p>
 
@@ -136,6 +138,10 @@ Engineered end-to-end machine learning pipeline for residential property price p
 [→ Repository](https://github.com/shamiquekhan/Machince_Learning_Projects)
 
 ---
+<p align="center">
+  <code>··· ███▒▒▒ INITIALIZING_NEXT_PROTOCOLS ▒▒▒███ ···</code>
+</p>
+
 
 ## > CREDENTIALS & CERTIFICATIONS
 
