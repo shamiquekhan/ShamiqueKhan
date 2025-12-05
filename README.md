@@ -6,18 +6,12 @@
     />
   </a>
 </p>
-
-## > SYSTEM STATUS: ONLINE
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=16&duration=2600&pause=1000&color=D71921&center=true&vCenter=true&multiline=true&width=520&lines=%3E+TELEMETRY%3A+ML+PIPELINES++ONLINE;%3E+GEN+AI++RAG++VECTORS++ACTIVE;%3E+OPEN_SOURCE++CONTRIBUTIONS++STREAMING"
-    alt="Telemetry strip"
+    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=18&duration=2600&pause=1200&color=D71921&center=true&vCenter=true&width=600&height=45&lines=%3E+CORE+IDENTITY;%3E+KERNEL%3A+AI%2FML+SYSTEMS"
+    alt="Core Identity header"
   />
 </p>
-
----
-### > CORE IDENTITY
-
 **Location** // Earth  
 **Focus** // Artificial Intelligence, Machine Learning, Data Science  
 **Current_Mission** // Building intelligent systems that decode complexity into clarity  
@@ -26,6 +20,12 @@
 ---
 
 ## > TECHNICAL ARSENAL
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=16&duration=2600&pause=1000&color=D71921&center=true&vCenter=true&multiline=true&width=520&lines=%3E+TELEMETRY%3A+ML+PIPELINES++ONLINE;%3E+GEN+AI++RAG++VECTORS++ACTIVE;%3E+OPEN_SOURCE++CONTRIBUTIONS++STREAMING"
+    alt="Telemetry strip"
+  />
+</p>
 
 <p align="center">
   <!-- Languages -->
@@ -64,6 +64,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamiquekhan&layout=compact&title_color=D71921&text_color=FFFFFF&bg_color=00000000&hide_border=true" alt="Top languages" />
 </p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=18&duration=2600&pause=1200&color=D71921&center=true&vCenter=true&width=600&height=45&lines=%3E+TELEMETRY;%3E+GITHUB+SIGNALS+ONLINE"
+    alt="Telemetry header"
+  />
+</p>
 
 
 ---
@@ -75,6 +81,13 @@
 ---
 
 ## > FEATURED PROTOCOLS
+<h align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=26&duration=2600&pause=1200&color=D71921&center=true&vCenter=true&width=700&height=45&lines=%3E+FEATURED+PROTOCOLS;%3E+END--TO--END+ML++PIPELINES"
+    alt="Featured Protocols header"
+  />
+</h>
+
 
 ### Falcon Landing Analytics: End-to-End ML Pipeline
 *Predictive Intelligence for SpaceX Falcon 9 Landing Success*
@@ -225,6 +238,7 @@ Selected contributor actively building features for multiple open-source project
 
 ---
 
+
 ## > EDUCATION
 
 **Bachelor of Technology (BTech), Computer Science Engineering**  
@@ -237,6 +251,13 @@ Selected contributor actively building features for multiple open-source project
 ---
 
 ## > MANIFEST
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=18&duration=2600&pause=1200&color=D71921&center=true&vCenter=true&width=600&height=45&lines=%3E+MANIFEST;%3E+PHILOSOPHY%3A+TRANSPARENT+TECH"
+    alt="Manifest header"
+  />
+</p>
+
 
 An engineer dedicated to translating raw data into actionable intelligence. Specializing in machine learning pipelines, generative AI systems, and data-driven decision making. Focused on building transparent, interpretable models that bridge the gap between complex algorithms and human understanding.
 
@@ -258,11 +279,17 @@ Currently exploring:
 ---
 
 ## > SIGNAL UPLINK
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=18&duration=2600&pause=1200&color=D71921&center=true&vCenter=true&width=600&height=45&lines=%3E+SIGNAL+UPLINK;%3E+READY_FOR_COLLABORATION"
+    alt="Signal Uplink header"
+  />
+</p>
+
 
 - **GitHub** — github.com/shamiquekhan
 - **LinkedIn** — linkedin.com/in/shamique-khan
 - **Email** — shamiquekhan18@gmail.com
-- **Phone** — +91 8534880680
 
 ---
 
