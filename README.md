@@ -1,209 +1,254 @@
-<!--
-Nothing OS / Brand Identity Theme
-Author: Shamique Khan (Generated via Gemini)
-Aesthetic: Industrial, Dot Matrix, Monochrome, Red Accents
--->
-
-<div align="center">
-
-<!-- HEADER: BOOT SEQUENCE (Using Doto Font) -->
-
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DDoto%26weight%3D700%26size%3D38%26pause%3D1000%26color%3DFFFFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26height%3D100%26lines%3D%253E%2BSYSTEM_IDENTITY_VERIFIED%3B%253E%2BUSER:%2BSHAMIQUE%2BKHAN%3B%253E%2BCLASS:%2BAI%2B%252F%2BML%2BSPECIALIST%3B%253E%2BSTATUS:%2BONLINE" alt="Typing SVG" />
-</a>
-
-<!-- GLYPH DIVIDER -->
-
-<!-- BENTO GRID SYSTEM -->
-
-<table width="100%" border="0" cellpadding="5">
-<tr>
-<!-- WIDGET A: MANIFESTO (ABOUT ME) -->
-<td width="60%" valign="top">
-<h3 align="left" style="color: #ffffff;">> MANIFEST_</h3>
-<p align="left">
-<b>> IDENTITY:</b> BTech CSE (AI/ML) @ VIT Bhopal
-
-
-
-
-<b>> CREDENTIALS:</b> Oracle GenAI Pro | GSSoC'25 Contributor
-
-
-
-
-<b>> LOCATION:</b> Etawah, UP, India (IN)
-
-
-
-
-<b>> MISSION:</b> Decoding the black box. Transforming raw data into actionable intelligence through production-grade pipelines and Deep Learning architectures.
-</p>
-
-
-
-
-
-<code>
-> CURRENT_OBJ: [====================] 100%
-> FOCUS:       Generative AI / Cloud
-> LANG:        EN (Native) / DE (A1)
-</code>
-</td>
-
-  <!-- WIDGET B: CONNECT (SOCIALS) -->
-  <td width="40%" valign="top" align="center">
-     <h3 align="left" style="color: #D71921;">> UPLINK_</h3>
-     <a href="https://linkedin.com/in/shamique-khan">
-       <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=1B1B1D" />
-     </a>
-     <br>
-     <a href="https://github.com/shamiquekhan">
-       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-     </a>
-     <br>
-     <a href="https://x.com/Shamique_1810">
-       <img src="https://img.shields.io/badge/X_Network-000000?style=for-the-badge&logo=x&logoColor=white" />
-     </a>
-     <br>
-     <a href="mailto:your.email@example.com">
-       <img src="https://img.shields.io/badge/Email_Me-D71921?style=for-the-badge&logo=gmail&logoColor=white" />
-     </a>
-  </td>
-</tr>
-
-
-</table>
-
-</div>
-
-<!-- SECTION: ARSENAL (TECH STACK) -->
-
-<!-- Designed as a Component Layout -->
-
-<h2 align="center" style="color: #ffffff;">> ARSENAL_</h2>
-
-<div align="center">
-
-<!-- ROW 1: CORE -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-000000%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-000000%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-000000%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-D71921%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
-
-<!-- ROW 2: AI / ML -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-1B1B1D%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-1B1B1D%3Fstyle%3Dfor-the-badge%26logo%3Dpytorch%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit_Learn-1B1B1D%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-1B1B1D%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-1B1B1D%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" />
-
-<!-- ROW 3: INFRA -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgooglecloud%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-000000%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dwhite" />
-
-</div>
-
-<!-- SECTION: SCHEMATICS (PROJECTS) -->
-
-<h2 align="center" style="color: #ffffff;">> SCHEMATICS_</h2>
-
-<table width="100%">
-<tr>
-<td width="50%">
-<h3 align="center">FALCON_LANDING_ANALYTICS</h3>
+# SHAMIQUE KHAN
 <p align="center">
-<code>> STATUS: DEPLOYED</code>
-
-
-
-
-End-to-End ML Pipeline predicting SpaceX landing success with 85.19% accuracy using XGBoost.
-
-
-
-
-<a href="https://github.com/shamiquekhan/Falcon-Landing-Analytics-End-to-End-Machine-Learning-Pipeline">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ACCESS_REPO-000000%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite%26color%3Dblack" />
-</a>
+  <a href="https://github.com/shamiquekhan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=900&color=D71921&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+PROTOCOLS...;%3E+SYSTEM_IDENTITY%3A+SHAMIQUE+KHAN;%3E+CLASS%3A+AI+ENGINEER+%2F+CS+STUDENT;%3E+STATUS%3A+ONLINE" alt="Typing SVG" />
+  </a>
 </p>
-</td>
-<td width="50%">
-<h3 align="center">QUANTUM_SYSTEM_SOLVER</h3>
+
+## > SYSTEM STATUS: ONLINE
+
+---
+
+### > CORE IDENTITY
+
+**Location** // Earth  
+**Focus** // Artificial Intelligence, Machine Learning, Data Science  
+**Current_Mission** // Building intelligent systems that decode complexity into clarity  
+**Status** // CS Student @ VIT Bhopal • AI/ML Specialist • Data Engineer  
+
+---
+
+## > TECHNICAL ARSENAL
+## > TELEMETRY
+
+**Languages** — Python • Java • SQL • HTML • CSS  
+**ML & Data Science** — Scikit-Learn • PyTorch • TensorFlow • Pandas • NumPy • Matplotlib • Plotly  
+**Generative AI** — LLMs • Prompt Engineering • RAG • LangChain • Vector Databases  
+**Cloud & Tools** — Google Cloud • Git • REST APIs • Jupyter Notebook • Docker 
+
 <p align="center">
-<code>> STATUS: OPTIMIZED</code>
-
-
-
-
-Schrödinger equation solver with UV-Vis spectroscopy integration. 0% Error rate.
-
-
-
-
-<a href="https://github.com/shamiquekhan/Quantum_System_Solver_Project">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ACCESS_REPO-000000%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite%26color%3Dblack" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shamiquekhan&show_icons=true&title_color=D71921&text_color=FFFFFF&icon_color=A1A1AA&bg_color=00000000&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
-</td>
-</tr>
-</table>
 
-<!-- SECTION: TELEMETRY (STATS) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shamiquekhan&theme=transparent&ring=D71921&fire=D71921&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=A1A1AA&dates=777777" alt="GitHub streak" />
+</p>
 
-<h2 align="center" style="color: #ffffff;">> TELEMETRY_</h2>
-
-<div align="center">
-<!-- GitHub Stats: Configured for Transparency & Nothing Red Theme -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dshamiquekhan%26show_icons%3Dtrue%26theme%3Dtransparent%26title_color%3DD71921%26text_color%3Dffffff%26icon_color%3DA1A1AA%26hide_border%3Dtrue%26bg_color%3D00000000" height="150" alt="stats graph" />
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dshamiquekhan%26layout%3Dcompact%26theme%3Dtransparent%26title_color%3DD71921%26text_color%3Dffffff%26hide_border%3Dtrue%26bg_color%3D00000000" height="150" alt="languages graph" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamiquekhan&layout=compact&title_color=D71921&text_color=FFFFFF&bg_color=00000000&hide_border=true" alt="Top languages" />
+</p>
 
 
+---
+## > ACTIVITY GRID
 
+<p align="center">
+  <img src="https://github.com/shamiquekhan/shamiquekhan/blob/output/dist/github-snake.svg" alt="Snake animation" />
+</p>
+---
 
+## > FEATURED PROTOCOLS
 
-<!-- STREAK STATS -->
+### Falcon Landing Analytics: End-to-End ML Pipeline
+*Predictive Intelligence for SpaceX Falcon 9 Landing Success*
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dshamiquekhan%26theme%3Ddark%26background%3D00000000%26border%3DD71921%26stroke%3DD71921%26ring%3DD71921%26fire%3DD71921%26currStreakNum%3Dffffff%26sideNums%3Dffffff%26currStreakLabel%3DD71921%26sideLabels%3DD71921%26hide_border%3Dtrue" alt="streak" />
-</div>
+```
+Status: COMPLETE | Accuracy: 85.19% | Impact: Production-Grade ML Architecture
+```
 
-<!-- SECTION: FIRMWARE (CERTIFICATIONS) -->
+Engineered a comprehensive machine learning pipeline analyzing SpaceX Falcon 9 first-stage landing success with multi-model comparison and statistical optimization.
 
-<div align="center">
-<code>
-> FIRMWARE_UPDATE_LOG:
-----------------------------------------
-[✓] ORACLE_GEN_AI_PROFESSIONAL.....(2025)
-[✓] GOOGLE_CLOUD_DATA_PREP.........(2025)
-[✓] IBM_DATA_SCIENCE_PRO...........(2025)
-[✓] IIT_ROPAR_GENAI_HACKATHON......(2025)
-----------------------------------------
-</code>
-</div>
+**Technical Specifications:**
+- Integrated real-world SpaceX API data (90 launches, 187+ records)
+- Implemented Decision Trees, Random Forest, and XGBoost with systematic evaluation
+- Applied hyperparameter tuning and k-fold cross-validation for model optimization
+- Discovered critical insight: +0.95 correlation between flight experience and landing success
+- Generated interactive Plotly dashboards for stakeholder communication
 
-<!-- SECTION: CONTRIBUTION SNAKE (Requires Action Setup) -->
+**Technologies:** Python • Scikit-Learn • Pandas • NumPy • REST APIs • Machine Learning Pipelines
 
-<!--
-To enable this section, create .github/workflows/snake.yml
-and use the 'Platane/snk' action.
-The colors below are configured to: Void Black, Gray, and Red Head.
--->
+[→ Repository](https://github.com/shamiquekhan/Falcon-Landing-Analytics-End-to-End-Machine-Learning-Pipeline)
 
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://github.com/shamiquekhan/shamiquekhan/blob/output/github-contribution-grid-snake.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://github.com/shamiquekhan/shamiquekhan/blob/output/github-contribution-grid-snake.svg" />
-<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://github.com/shamiquekhan/shamiquekhan/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
+---
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D000000%26height%3D100%26section%3Dfooter" width="100%" />
-<sub style="color: #333333;">(C) 2025 SHAMIQUE KHAN // ENGINEERED IN THE VOID</sub>
-</div>
+### Quantum Mechanics Computation Tool
+*Advanced Physics Simulation System*
+
+```
+Status: COMPLETE | Lines of Code: 5000+ | Theory Applied: Schrödinger Equation
+```
+
+Developed a sophisticated computational system solving quantum mechanics problems with verified accuracy against experimental data.
+
+**Technical Specifications:**
+- Implemented analytical and numerical solutions for particle-in-a-box systems
+- Accurately predicted UV-Vis absorption spectra (0% error vs. experimental baseline)
+- Numerically verified Heisenberg Uncertainty Principle across quantum states
+- Created advanced visualizations for wave-particle duality and quantization effects
+- Produced comprehensive documentation (13,000+ lines)
+
+**Technologies:** Python • NumPy • SciPy • Matplotlib • Seaborn • Computational Physics
+
+[→ Repository](https://github.com/shamiquekhan/Quantum_System_Solver_Project)
+
+---
+
+### Tesla & GameStop Stock Analysis System
+*Financial Data Pipeline & Visualization Platform*
+
+```
+Status: COMPLETE | Data Sources: Multi-API Integration | Visualizations: 6 Professional Dashboards
+```
+
+Built integrated financial data analysis platform demonstrating production-grade data engineering and API orchestration.
+
+**Technical Specifications:**
+- Yahoo Finance API integration with robust error handling and fallback mechanisms
+- Web scraping pipeline using BeautifulSoup for multi-source data aggregation
+- Advanced time-series analysis with volatility calculations and correlation studies
+- Professional visualizations combining interactive Plotly and analytical Matplotlib
+- Comprehensive data cleaning and transformation workflows
+
+**Technologies:** Python • Pandas • NumPy • BeautifulSoup • Plotly • Matplotlib • REST APIs
+
+[→ Repository](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project)
+
+---
+
+### Real Estate Price Prediction Model
+*Advanced Regression Pipeline*
+
+```
+Status: COMPLETE | Dataset Size: 13,000+ records | Feature Insights: 8 Critical Drivers
+```
+
+Engineered end-to-end machine learning pipeline for residential property price prediction with advanced feature engineering.
+
+**Technical Specifications:**
+- Comprehensive data preprocessing and feature engineering workflows
+- Trained Decision Trees, Random Forest, and XGBoost with systematic comparison
+- Implemented cross-validation and hyperparameter optimization strategies
+- Identified key price drivers: rooms, land size, building area, proximity to CBD
+- Conducted feature importance analysis for actionable business insights
+
+**Technologies:** Python • Scikit-Learn • Pandas • NumPy • Cross-Validation • Model Evaluation
+
+[→ Repository](https://github.com/shamiquekhan/Machince_Learning_Projects)
+
+---
+
+## > CREDENTIALS & CERTIFICATIONS
+
+### Generative AI & LLMs
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** (Oct 2025)
+  - Specialization: RAG, Fine Tuning, Vector Databases, LangChain
+- **IBM Generative AI: Elevate Your Data Science Career** (Nov 2025)
+  - Credential ID: 8XLJ4LE0OJT1
+- **Columbia+ Prompt Engineering & Programming with OpenAI** (Jul 2025)
+  - Credential ID: 154800100 | Focus: LangChain, LLaMA, Advanced GenAI
+
+### Machine Learning & Data Science
+- **IBM Data Science Professional Certification** (Nov 2025)
+  - Credential ID: YYICIR3BM019
+- **Kaggle Intermediate Machine Learning** (Nov 2025)
+- **Kaggle Intro to Machine Learning** (Nov 2025)
+- **University of London Machine Learning for All** (Oct 2025)
+
+### Python & Development
+- **IBM Python for Data Science, AI & Development** (Aug 2025)
+- **Google Crash Course on Python** (Nov 2025)
+- **Cisco Python Essentials 1 & 2** (Jul 2025)
+- **Infosys Springboard: Mastering Python** (May 2025)
+
+### Cloud & Data Tools
+- **Google Cloud Introduction to Large Language Models** (Nov 2025)
+- **IBM Databases and SQL for Data Science** (Sep 2025)
+- **MongoDB Basics for Students** (Oct 2025)
+- **Infosys Springboard: Hands-On Version Control with Git** (May 2025)
+
+### Professional Development
+- **McKinsey Forward Program** (Sep 2025 - Present)
+  - Focus: Analytical Thinking, Problem-Solving, Decision-Making
+- **Google Analytics Certification** (Jul 2025)
+- **Deloitte Data Analytics Job Simulation** (Jun 2025)
+
+---
+
+## > PROFESSIONAL EXPERIENCE
+
+### McKinsey Forward Program Trainee
+*Remote | Sep 2025 - Present*
+
+Developing analytical thinking, problem-solving, and communication skills in data-driven decision-making contexts.
+
+**Skills:** Critical Thinking, Analytical Reasoning, Communication, Leadership
+
+---
+
+### Open Source Contributor
+*GirlScript Summer of Code 2025 | Remote | Jul 2025 - Present*
+
+Selected contributor actively building features for multiple open-source projects with focus on backend Python logic and full-stack implementation.
+
+**Contributions:** Python Scripting • Backend Logic • Frontend UI (HTML/CSS) • Open Source Collaboration
+
+---
+
+## > EDUCATION
+
+**Bachelor of Technology (BTech), Computer Science Engineering**  
+*VIT Bhopal University | Jul 2025 - Jul 2029*
+
+- **Specialization:** Artificial Intelligence and Machine Learning
+- **Registration:** 25BAI10187 | **Class:** B11+B12+B13
+- **Focus Areas:** AI Systems, Generative AI, Python Development, Computational Methods
+
+---
+
+## > MANIFEST
+
+An engineer dedicated to translating raw data into actionable intelligence. Specializing in machine learning pipelines, generative AI systems, and data-driven decision making. Focused on building transparent, interpretable models that bridge the gap between complex algorithms and human understanding.
+
+Currently exploring:
+- Advanced transformer architectures and LLM fine-tuning
+- Retrieval-Augmented Generation systems and knowledge integration
+- Cloud-native ML infrastructure and scalable AI applications
+- Ethical AI and responsible machine learning practices
+
+---
+
+## > LANGUAGES
+
+**English** — Full Professional Proficiency  
+**Hindi** — Native Proficiency  
+**Urdu** — Native Proficiency  
+**German** — Limited Working Proficiency (Duolingo: 63)
+
+---
+
+## > SIGNAL UPLINK
+
+- **GitHub** — github.com/shamiquekhan
+- **LinkedIn** — linkedin.com/in/shamique-khan
+- **Email** — shamiquekhan18@gmail.com
+- **Phone** — +91 8534880680
+
+---
+
+### > SYSTEM DECLARATION
+
+**Philosophy:** Transparency in Technology  
+**Approach:** Data-Driven, Methodical, Iterative  
+**Goal:** Building intelligent systems that augment human capability
+
+```
+> STATUS: INITIALIZING_NEXT_PROTOCOLS
+> READY_FOR_COLLABORATION
+> ALWAYS_LEARNING
+```
+
+---
+
+*Last Updated: December 6, 2025*
+
+**#MachineLearning #DataScience #AI #Python #GenerativeAI #GitHub #ArtsificialIntelligence #OpenSource #NeuralNetworks #DataEngineering**
