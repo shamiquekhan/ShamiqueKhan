@@ -78,7 +78,7 @@
 ## > ACTIVITY GRID
 
 <p align="center">
-  <img src="https://github.com/shamiquekhan/shamiquekhan/blob/output/dist/github-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/shamiquekhan/ShamiqueKhan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
