@@ -94,3 +94,172 @@
 ### AI Investment Advisor Agent – Multi‑Agent Stock Analysis System
 *AI‑Powered Investment Insights with Multi‑Provider Market Data*
 
+Built an AI investment advisor that analyzes stocks using real‑time market data, financial news sentiment, and an AI scoring engine.[web:60][web:61][web:63]  
+Implements a production‑style architecture with caching, rate‑limit handling, and multi‑provider failover.[web:60][web:61][web:63][web:65]
+
+**Capabilities:**
+- Integrates **Yahoo Finance (yfinance), Finnhub, Alpha Vantage** for prices, fundamentals, and historical data.[web:60][web:61][web:63][web:65]
+- Uses **FinBERT** sentiment analysis to score recent news and earnings headlines.[web:62][web:68]
+- Computes a **0–10 AI score** per stock with STRONG BUY / BUY / HOLD‑style labels.
+- Generates sample **portfolio allocations**, expected return, and risk profile.
+- Deployed as a live **Streamlit** app with 1‑hour caching and graceful fallbacks.[web:60][web:61]
+
+**Tech Stack:** Python • Streamlit • yfinance • Finnhub API • Alpha Vantage • HuggingFace Transformers (FinBERT) • Pandas • NumPy • Requests • Caching & Rate‑Limit Handling
+
+[→ Live App](https://ai-investment-advisor-agent.streamlit.app/) • [→ Repository](https://github.com/shamiquekhan/ai-investment-advisor-agent)
+
+---
+
+### Falcon Landing Analytics: End‑to‑End ML Pipeline
+*Predictive Intelligence for SpaceX Falcon 9 Landing Success*
+
+Engineered a machine learning pipeline analyzing Falcon 9 first‑stage landing success with multiple models and statistical optimization.
+
+**Technologies:** Python • Scikit‑Learn • Pandas • NumPy • REST APIs • ML Pipelines
+
+[→ Repository](https://github.com/shamiquekhan/Falcon-Landing-Analytics-End-to-End-Machine-Learning-Pipeline)
+
+---
+
+### Quantum Mechanics Computation Tool
+*Advanced Physics Simulation System*
+
+
+
+### Quantum Mechanics Computation Tool
+*Advanced Physics Simulation System*
+
+Built a computational system for solving quantum mechanics problems with analytical and numerical methods.
+
+**Technologies:** Python • NumPy • SciPy • Matplotlib • Seaborn • Computational Physics
+
+[→ Repository](https://github.com/shamiquekhan/Quantum_System_Solver_Project)
+
+---
+
+### Tesla & GameStop Stock Analysis System
+*Financial Data Pipeline & Visualization Platform*
+
+
+
+### Tesla & GameStop Stock Analysis System
+
+Created a financial data analysis platform demonstrating production‑style data engineering and visualization.
+
+**Technologies:** Python • Pandas • NumPy • BeautifulSoup • Plotly • Matplotlib • REST APIs
+
+[→ Repository](https://github.com/shamiquekhan/Tesla-GameStop-Stock-Analysis-Project)
+
+---
+
+### Real Estate Price Prediction Model
+*Advanced Regression Pipeline*
+
+Developed an end‑to‑end ML pipeline for residential property price prediction with feature engineering and model comparison.
+
+**Technologies:** Python • Scikit‑Learn • Pandas • NumPy • Model Evaluation
+
+[→ Repository](https://github.com/shamiquekhan/Machince_Learning_Projects)
+
+---
+
+## > CREDENTIALS & CERTIFICATIONS
+
+### Generative AI & LLMs
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**  
+- **IBM Generative AI: Elevate Your Data Science Career**  
+- **Columbia+: Prompt Engineering & Programming with OpenAI**
+
+### Machine Learning & Data Science
+- **IBM Data Science Professional Certification**  
+- **Kaggle Intermediate Machine Learning**  
+- **Kaggle Intro to Machine Learning**  
+- **University of London – Machine Learning for All**
+
+### Python & Development
+- **IBM Python for Data Science, AI & Development**  
+- **Google Crash Course on Python**  
+- **Cisco Python Essentials 1 & 2**  
+- **Infosys Springboard: Mastering Python**
+
+### Cloud & Data Tools
+- **Google Cloud – Introduction to Large Language Models**  
+- **IBM Databases and SQL for Data Science**  
+- **MongoDB Basics for Students**  
+- **Infosys Springboard: Hands-On Version Control with Git**
+
+### Professional Development
+- **McKinsey Forward Program (Trainee)**  
+- **Google Analytics Certification**  
+- **Deloitte Data Analytics Job Simulation**
+
+---
+
+## > PROFESSIONAL EXPERIENCE
+
+### McKinsey Forward Program Trainee
+*Remote*
+
+Developing analytical thinking, problem‑solving, and communication skills in data‑driven decision‑making contexts.
+
+### Open Source Contributor – GirlScript Summer of Code 2025
+Contributing Python backend logic and full‑stack features to multiple open‑source projects.
+
+---
+
+## > EDUCATION
+
+**Bachelor of Technology (BTech), Computer Science Engineering (AI & ML)**  
+*VIT Bhopal University | 2025–2029*
+
+Focus: AI Systems, Generative AI, Python Development, Computational Methods
+
+---
+
+## > MANIFEST
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=18&duration=2600&pause=1200&color=D71921&center=true&vCenter=true&width=600&height=45&lines=%3E+MANIFEST;%3E+PHILOSOPHY%3A+TRANSPARENT+TECH"
+    alt="Manifest header"
+  />
+</p>
+
+An engineer dedicated to translating raw data into actionable intelligence. Specializing in machine learning pipelines, generative AI systems, and data-driven decision making. Focused on building transparent, interpretable models that bridge the gap between complex algorithms and human understanding.
+
+Currently exploring:
+- Advanced transformer architectures and LLM fine-tuning  
+- Retrieval-Augmented Generation systems and knowledge integration  
+- Cloud-native ML infrastructure and scalable AI applications  
+- Ethical AI and responsible machine learning practices  
+
+---
+
+## > LANGUAGES
+
+**English** — Full Professional  
+**Hindi** — Native  
+**Urdu** — Native  
+**German** — Limited Working Proficiency  
+
+---
+
+## > SIGNAL UPLINK
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=18&duration=2600&pause=1200&color=D71921&center=true&vCenter=true&width=600&height=45&lines=%3E+SIGNAL+UPLINK;%3E+READY_FOR_COLLABORATION"
+    alt="Signal Uplink header"
+  />
+</p>
+
+- **GitHub** — github.com/shamiquekhan  
+- **LinkedIn** — linkedin.com/in/shamique-khan  
+- **Email** — shamiquekhan18@gmail.com  
+
+---
+
+### > SYSTEM DECLARATION
+
+**Philosophy:** Transparency in Technology  
+**Approach:** Data-Driven, Methodical, Iterative  
+**Goal:** Building intelligent systems that augment human capability  
+
