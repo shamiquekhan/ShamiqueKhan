@@ -72,6 +72,11 @@
     alt="Telemetry header"
   />
 </p>
+<p align="center">
+  <img src="[https://komarev.com/ghpvc/?username=shamiquekhan&layout=compact&title_color=D71921&text_color=FFFFFF&bg_color=00000000&hide_border=true" alt="profile views" />
+</p>
+
+
 
 ---
 
