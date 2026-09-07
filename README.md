@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="shamiquekhan's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <p align="center">
   <a href="https://github.com/shamiquekhan">
     <img
@@ -14,10 +20,9 @@
   />
 </p>
 
-**Location** // Etawah, Uttar Pradesh, India  
-**Focus** // Agentic AI, LLM Systems, Quant Finance, Scientific ML  
-**Current_Mission** // Building production-grade AI systems that translate complexity into actionable intelligence  
-**Status** // CS Student @ VIT Bhopal (AI & ML) • Founder @ Quant ML • Research Author × 3 Publications  
+**Focus** // Agentic AI, LLM Systems, Quant Finance, Scientific ML
+**Current_Mission** // Building production-grade AI systems that translate complexity into actionable intelligence
+**Status** // CS Student @ VIT Bhopal (AI & ML) • Founder @ Quant ML • Research Author × 3 Publications
 
 ---
 
@@ -75,24 +80,6 @@
   <img src="https://img.shields.io/badge/Jupyter-1B1B1D?style=flat&logo=jupyter&logoColor=FFFFFF" alt="Jupyter" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamiquekhan&show_icons=true&title_color=D71921&text_color=FFFFFF&icon_color=A1A1AA&bg_color=00000000&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shamiquekhan&theme=transparent&ring=D71921&fire=D71921&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=A1A1AA&dates=777777" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamiquekhan&layout=compact&title_color=D71921&text_color=FFFFFF&bg_color=00000000&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=18&duration=2600&pause=1200&color=D71921&center=true&vCenter=true&width=600&height=45&lines=%3E+TELEMETRY;%3E+GITHUB+SIGNALS+ONLINE"
-    alt="Telemetry header"
-  />
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shamiquekhan&layout=compact&title_color=D71921&text_color=FFFFFF&bg_color=00000000&hide_border=true" alt="profile views" />
 </p>
@@ -294,10 +281,10 @@ Shipped production Python/ML modules to multiple repos; collaborated with global
 
 ## > EDUCATION
 
-**Bachelor of Technology (BTech), Computer Science Engineering (AI & ML)**  
+**Bachelor of Technology (BTech), Computer Science Engineering (AI & ML)**
 *VIT Bhopal University | Jul 2025 – Jul 2029*
 
-**Senior Secondary — Physics, Chemistry, Maths & Computer Science**  
+**Senior Secondary — Physics, Chemistry, Maths & Computer Science**
 *Aligarh Muslim University | Apr 2025 | Grade: 80% · Distinction in Four Subjects*
 
 ---
@@ -323,9 +310,9 @@ Currently exploring:
 
 ## > LANGUAGES
 
-**English** — Full Professional  
-**Hindi** — Native  
-**Urdu** — Native  
+**English** — Full Professional
+**Hindi** — Native
+**Urdu** — Native
 **German** — Limited Working Proficiency (actively learning)
 
 ---
@@ -338,15 +325,15 @@ Currently exploring:
   />
 </p>
 
-- **GitHub** — github.com/shamiquekhan  
-- **LinkedIn** — linkedin.com/in/shamique-khan  
-- **Email** — shamiquekhan18@gmail.com  
+- **GitHub** — github.com/shamiquekhan
+- **LinkedIn** — linkedin.com/in/shamique-khan
+- **Email** — shamiquekhan18@gmail.com
 - **Quant ML** — quantml.tech
 
 ---
 
 ### > SYSTEM DECLARATION
 
-**Philosophy:** Transparency in Technology  
-**Approach:** Data-Driven, Methodical, Iterative  
+**Philosophy:** Transparency in Technology
+**Approach:** Data-Driven, Methodical, Iterative
 **Goal:** Building intelligent systems that augment human capability
