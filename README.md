@@ -85,6 +85,108 @@
 </p>
 
 ---
+---
+
+## > GITHUB TELEMETRY
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=18&duration=2600&pause=1200&color=D71921&center=true&vCenter=true&width=650&height=45&lines=%3E+GITHUB+TELEMETRY;%3E+REPOSITORIES++%2F++COMMITS++%2F++LANGUAGES;%3E+OPEN_SOURCE+ACTIVITY+MONITORED"
+    alt="GitHub Telemetry header"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shamiquekhan&show_icons=true&hide_border=true&bg_color=00000000&title_color=D71921&text_color=FFFFFF&icon_color=D71921&ring_color=D71921&include_all_commits=true&count_private=true&rank_icon=github"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamiquekhan&layout=compact&hide_border=true&bg_color=00000000&title_color=D71921&text_color=FFFFFF&icon_color=D71921&langs_count=8"
+    height="180"
+    alt="Most Used Programming Languages"
+  />
+</p>
+
+---
+
+## > GITHUB HIGHLIGHTS
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=16&duration=2600&pause=1000&color=D71921&center=true&vCenter=true&multiline=true&width=700&height=55&lines=%3E+OPEN_SOURCE+%2F%2F+RESEARCH+%2F%2F+ENGINEERING;%3E+BUILDING+IN+PUBLIC"
+    alt="GitHub Highlights header"
+  />
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/shamiquekhan?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/REPOSITORIES-1B1B1D?style=for-the-badge&logo=github&logoColor=D71921&labelColor=000000"
+      alt="Repositories"
+    />
+  </a>
+
+  <a href="https://github.com/shamiquekhan?tab=stars">
+    <img
+      src="https://img.shields.io/github/stars/shamiquekhan?style=for-the-badge&label=STARS&labelColor=000000&color=1B1B1D&logo=github&logoColor=D71921"
+      alt="GitHub Stars"
+    />
+  </a>
+
+  <a href="https://github.com/shamiquekhan">
+    <img
+      src="https://img.shields.io/github/followers/shamiquekhan?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=1B1B1D&logo=github&logoColor=D71921"
+      alt="GitHub Followers"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/shamiquekhan">
+    <img
+      src="https://img.shields.io/badge/AI%20%2F%20ML-RESEARCH-D71921?style=for-the-badge&labelColor=000000"
+      alt="AI ML Research"
+    />
+  </a>
+
+  <a href="https://github.com/shamiquekhan">
+    <img
+      src="https://img.shields.io/badge/AGENTIC%20AI-LLM%20SYSTEMS-D71921?style=for-the-badge&labelColor=000000"
+      alt="Agentic AI"
+    />
+  </a>
+
+  <a href="https://github.com/shamiquekhan">
+    <img
+      src="https://img.shields.io/badge/SCIENTIFIC%20ML-OPEN%20SOURCE-D71921?style=for-the-badge&labelColor=000000"
+      alt="Scientific ML"
+    />
+  </a>
+
+</p>
+
+---
+
+## > CONTRIBUTION MATRIX
+
+<p align="center">
+  <img
+    src="https://github.com/shamiquekhan/ShamiqueKhan/blob/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shamiquekhan&bg_color=00000000&color=FFFFFF&line=D71921&point=D71921&area=true&area_color=D71921&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ## > ACTIVITY GRID
 
